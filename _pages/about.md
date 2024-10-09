@@ -24,8 +24,11 @@ Hi! I'm Gun from Rep. of Korea studying at UTokyo as a master student.
 
 My interests is to connect physics and AI.
 
-- From physics to AI: Defining learning process of AI with non-equilibrium process.
-- From AI to Physics: Data-driven way to discover new experimental, theoretical facts
+● From physics to AI: Defining learning process of AI with non-equilibrium process.
+
+● From AI to Physics: Data-driven way to discover new experimental, theoretical facts
+
+---
 
 ## About
 
@@ -33,79 +36,97 @@ Our team at AWL, Inc. developed advanced computer vision solutions using deep le
 
 With a scholarship-backed education in applied physics, my work extends beyond academia to practical applications. I contributed to phase-field simulation projects and manage server security, blending technical acumen with a strategic approach to problem-solving. My goal is to foster advancements where AI and physics intersect, guiding innovation in the tech landscape.
 
+---
+
 ## Links
 
 Github: [Personal](https://github.com/yoongun), [School](https://github.com/yoongunut)
 
-Linkedin: [https://www.linkedin.com/in/gun-yoon/](gun-yoon)
+Linkedin: [YOON Gun](https://www.linkedin.com/in/gun-yoon/)
+
+---
 
 ## Curriculum Vitae
 
-### Experience
+> ### Experience
 
-#### AWL, inc. / part-time deep learning engineer
+> > #### AWL, inc. / part-time deep learning engineer
 
-<span style="color:grey">Nov, 2017 - Aug, 2021, 3 yrs 10 mos Sapporo, Japan</span>.
+> > <span style="color:grey">Nov, 2017 - Aug, 2021, 3 yrs 10 mos Sapporo, Japan</span>.
 
-● Optimization of recommendation system
-● Semantic Segmentation
-● Voice recognition system integration
-● Multi-label image classification
-● Contamination map expectation
-● Video object detection model
+> > > ● Optimization of recommendation system
 
-#### Laboratory of microstructure control, Hokkaido University / research assistant
+> > > ● Semantic Segmentation
 
-<span style="color:grey">Nov, 2019 - Aug, 2020, 10 mos Sapporo, Japan</span>.
+> > > ● Voice recognition system integration
 
-● Managing distributed GPGPU computing system for phase-field simulation
-● Computing server security administration
-● Inverse analysis of anisotropy from interface shape distribution with CNN
+> > > ● Multi-label image classification
 
-#### Republic of Korea Army / sergeant, signaller
+> > > ● Contamination map expectation
 
-<span style="color:grey">Sep, 2022 - Mar, 2024, Rep. of Korea</span>.
+> > > ● Video object detection model
 
-● Mandatory military service.
+> > #### Laboratory of microstructure control, Hokkaido University / research assistant
 
-### Education
+> > <span style="color:grey">Nov, 2019 - Aug, 2020, 10 mos Sapporo, Japan</span>.
 
-#### The University of Tokyo / M.Eng., applied physics
+> > > ● Managing distributed GPGPU computing system for phase-field simulation
 
-<span style="color:grey">Apr, 2024 - Mar, 2026(expected), Tokyo, Japan</span>.
+> > > ● Computing server security administration
 
-● Applied physics, 3.8/4.0.
-● [https://saitoh.t.u-tokyo.ac.jp/](Saitoh lab), department of applied physics.
-● RIKEN, “Emergent Spintronics Research Team”
+> > > ● Inverse analysis of anisotropy from interface shape distribution with CNN
 
-#### Hokkaido University / B.Eng., applied physics
+> > #### Republic of Korea Army / sergeant, signaller
 
-<span style="color:grey">Apr, 2018 - Mar, 2022, Sapporo, Japan</span>.
+> > <span style="color:grey">Sep, 2022 - Mar, 2024, Rep. of Korea</span>.
 
-● Full merit scholarship by MEXT, Japan & MOE, Rep. of Korea.
-● Laboratory of Applied Solid State Physics Research Group of Quantum Matter Physics,
-Division of Applied Physics · Apr, 2021 - Mar, 2022.
-● Graduation thesis: “Visualization of topological edge modes in mechanical graphene.”
+> > > ● Mandatory military service.
 
-#### Hokkaido University & Kyung Hee University / preparatory educational program, Japanese language and culture
+> ### Education
 
-<span style="color:grey">Mar, 2017 - Jul, 2017, Seoul, Rep. of Korea</span>.
-<span style="color:grey">Sep, 2017 - Mar, 2018, Sapporo, Japan</span>.
+> > #### The University of Tokyo / M.Eng., applied physics
 
-### Awards
+> > <span style="color:grey">Apr, 2024 - Mar, 2026(expected), Tokyo, Japan</span>.
 
-● Torch Award Issued by Major General Choi Changwoon · Nov, 2022
-● Exemplary Award Issued by Kyung Hee University · Aug, 2017
-● 18th Korea-Japan Joint Government Scholarship · Mar, 2017, MOE, Rep. of Korea & MEXT,
-Japan
+> > > ● Applied physics, 3.8/4.0.
 
-### Languages
+> > > ● [Saitoh lab](https://saitoh.t.u-tokyo.ac.jp/), department of applied physics.
 
-● English: fluent, TEPS 404/600, TOEIC 915/990, TOEFL 95/120
-● Japanese: fluent, JLPT N1 180/180
-● Chinese: introductory
-● Korean: native
+> > > ● RIKEN, “Emergent Spintronics Research Team”
 
-### Skills
+> > #### Hokkaido University / B.Eng., applied physics
 
-Deep learning, Computation Physics, CUDA, Python, C++, Julia
+> > <span style="color:grey">Apr, 2018 - Mar, 2022, Sapporo, Japan</span>.
+
+> > > ● Full merit scholarship by MEXT, Japan & MOE, Rep. of Korea.
+
+> > > ● Laboratory of Applied Solid State Physics Research Group of Quantum Matter Physics, Division of Applied Physics · Apr, 2021 - Mar, 2022.
+
+> > > ● Graduation thesis: “Visualization of topological edge modes in mechanical graphene.”
+
+> > #### Hokkaido University & Kyung Hee University / preparatory educational program, Japanese language and culture
+
+> > <span style="color:grey">Mar, 2017 - Jul, 2017, Seoul, Rep. of Korea</span>.
+> > <span style="color:grey">Sep, 2017 - Mar, 2018, Sapporo, Japan</span>.
+
+> ### Awards
+
+> > ● Torch Award Issued by Major General Choi Changwoon · Nov, 2022
+
+> > ● Exemplary Award Issued by Kyung Hee University · Aug, 2017
+
+> > ● 18th Korea-Japan Joint Government Scholarship · Mar, 2017, MOE, Rep. of Korea & MEXT, Japan
+
+> ### Languages
+
+> > ● English: fluent, TEPS 404/600, TOEIC 915/990, TOEFL 95/120
+
+> > ● Japanese: fluent, JLPT N1 180/180
+
+> > ● Chinese: introductory
+
+> > ● Korean: native
+
+> ### Skills
+
+> > Deep learning, Computation Physics, CUDA, Python, C++, Julia
