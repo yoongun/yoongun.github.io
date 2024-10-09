@@ -28,15 +28,11 @@ My interests is to connect physics and AI.
 
 ● From AI to Physics: Data-driven way to discover new experimental, theoretical facts
 
----
-
 ## About
 
 Our team at AWL, Inc. developed advanced computer vision solutions using deep learning, where I honed my skills in Python and C++. Currently pursuing a Master of Engineering at UTokyo, I'm deeply invested in integrating the principles of physics with the innovation of artificial intelligence. We're exploring data-driven methods to uncover new theoretical insights and experimental facts.
 
 With a scholarship-backed education in applied physics, my work extends beyond academia to practical applications. I contributed to phase-field simulation projects and manage server security, blending technical acumen with a strategic approach to problem-solving. My goal is to foster advancements where AI and physics intersect, guiding innovation in the tech landscape.
-
----
 
 ## Links
 
@@ -48,85 +44,69 @@ Linkedin: [YOON Gun](https://www.linkedin.com/in/gun-yoon/)
 
 ## Curriculum Vitae
 
-> ### Experience
+### Experience
 
-> > #### AWL, inc. / part-time deep learning engineer
+> #### AWL, inc. / part-time deep learning engineer
+>
+> <span style="color:grey">Nov, 2017 - Aug, 2021, 3 yrs 10 mos Sapporo, Japan</span>.
+>
+> - Optimization of recommendation system
+> - Semantic Segmentation
+> - Voice recognition system integration
+> - Multi-label image classification
+> - Contamination map expectation
+> - Video object detection model
 
-> > <span style="color:grey">Nov, 2017 - Aug, 2021, 3 yrs 10 mos Sapporo, Japan</span>.
+> #### Laboratory of microstructure control, Hokkaido University / research assistant
+>
+> <span style="color:grey">Nov, 2019 - Aug, 2020, 10 mos Sapporo, Japan</span>.
+>
+> - Managing distributed GPGPU computing system for phase-field simulation
+> - Computing server security administration
+> - Inverse analysis of anisotropy from interface shape distribution with CNN
 
-> > > ● Optimization of recommendation system
+> #### Republic of Korea Army / sergeant, signaller
+>
+> <span style="color:grey">Sep, 2022 - Mar, 2024, Rep. of Korea</span>.
+>
+> - Mandatory military service.
 
-> > > ● Semantic Segmentation
+### Education
 
-> > > ● Voice recognition system integration
+> #### The University of Tokyo / M.Eng., applied physics
+>
+> <span style="color:grey">Apr, 2024 - Mar, 2026(expected), Tokyo, Japan</span>.
+>
+> - Applied physics, 3.8/4.0.
+> - [Saitoh lab](https://saitoh.t.u-tokyo.ac.jp/), department of applied physics.
+> - RIKEN, “Emergent Spintronics Research Team”
 
-> > > ● Multi-label image classification
+> #### Hokkaido University / B.Eng., applied physics
+>
+> <span style="color:grey">Apr, 2018 - Mar, 2022, Sapporo, Japan</span>.
+>
+> - Full merit scholarship by MEXT, Japan & MOE, Rep. of Korea.
+> - Laboratory of Applied Solid State Physics Research Group of Quantum Matter Physics, Division of Applied Physics · Apr, 2021 - Mar, 2022.
+> - Graduation thesis: “Visualization of topological edge modes in mechanical graphene.”
 
-> > > ● Contamination map expectation
+> #### Hokkaido University & Kyung Hee University / preparatory educational program, Japanese language and culture
+>
+> <span style="color:grey">Mar, 2017 - Jul, 2017, Seoul, Rep. of Korea</span>.
+> <span style="color:grey">Sep, 2017 - Mar, 2018, Sapporo, Japan</span>.
 
-> > > ● Video object detection model
+### Awards
 
-> > #### Laboratory of microstructure control, Hokkaido University / research assistant
+- Torch Award Issued by Major General Choi Changwoon · Nov, 2022
+- Exemplary Award Issued by Kyung Hee University · Aug, 2017
+- 18th Korea-Japan Joint Government Scholarship · Mar, 2017, MOE, Rep. of Korea & MEXT, Japan
 
-> > <span style="color:grey">Nov, 2019 - Aug, 2020, 10 mos Sapporo, Japan</span>.
+### Languages
 
-> > > ● Managing distributed GPGPU computing system for phase-field simulation
+- English: fluent, TEPS 404/600, TOEIC 915/990, TOEFL 95/120
+- Japanese: fluent, JLPT N1 180/180
+- Chinese: introductory
+- Korean: native
 
-> > > ● Computing server security administration
+### Skills
 
-> > > ● Inverse analysis of anisotropy from interface shape distribution with CNN
-
-> > #### Republic of Korea Army / sergeant, signaller
-
-> > <span style="color:grey">Sep, 2022 - Mar, 2024, Rep. of Korea</span>.
-
-> > > ● Mandatory military service.
-
-> ### Education
-
-> > #### The University of Tokyo / M.Eng., applied physics
-
-> > <span style="color:grey">Apr, 2024 - Mar, 2026(expected), Tokyo, Japan</span>.
-
-> > > ● Applied physics, 3.8/4.0.
-
-> > > ● [Saitoh lab](https://saitoh.t.u-tokyo.ac.jp/), department of applied physics.
-
-> > > ● RIKEN, “Emergent Spintronics Research Team”
-
-> > #### Hokkaido University / B.Eng., applied physics
-
-> > <span style="color:grey">Apr, 2018 - Mar, 2022, Sapporo, Japan</span>.
-
-> > > ● Full merit scholarship by MEXT, Japan & MOE, Rep. of Korea.
-
-> > > ● Laboratory of Applied Solid State Physics Research Group of Quantum Matter Physics, Division of Applied Physics · Apr, 2021 - Mar, 2022.
-
-> > > ● Graduation thesis: “Visualization of topological edge modes in mechanical graphene.”
-
-> > #### Hokkaido University & Kyung Hee University / preparatory educational program, Japanese language and culture
-
-> > <span style="color:grey">Mar, 2017 - Jul, 2017, Seoul, Rep. of Korea</span>.
-> > <span style="color:grey">Sep, 2017 - Mar, 2018, Sapporo, Japan</span>.
-
-> ### Awards
-
-> > ● Torch Award Issued by Major General Choi Changwoon · Nov, 2022
-
-> > ● Exemplary Award Issued by Kyung Hee University · Aug, 2017
-
-> > ● 18th Korea-Japan Joint Government Scholarship · Mar, 2017, MOE, Rep. of Korea & MEXT, Japan
-
-> ### Languages
-
-> > ● English: fluent, TEPS 404/600, TOEIC 915/990, TOEFL 95/120
-
-> > ● Japanese: fluent, JLPT N1 180/180
-
-> > ● Chinese: introductory
-
-> > ● Korean: native
-
-> ### Skills
-
-> > Deep learning, Computation Physics, CUDA, Python, C++, Julia
+- Deep learning, Computation Physics, CUDA, Python, C++, Julia
