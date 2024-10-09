@@ -18,7 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
 Hi! I'm Gun from Rep. of Korea studying at UTokyo as a master student.
 
 My interests is to connect physics and AI.
