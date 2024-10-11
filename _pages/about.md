@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Picture from Banju Church</p>
-    <p>M.Eng. candidate at UTokyo</p>
+    <p>Picture from Banju Church, Jeju</p>
+    <p>M.Eng. candidate, UTokyo</p>
     <p>Tokyo, Japan</p>
 
 news: false # includes a list of news items
