@@ -85,7 +85,7 @@ Linkedin: [YOON Gun](https://www.linkedin.com/in/gun-yoon/)
 > <span style="color:grey">Apr, 2018 - Mar, 2022, Sapporo, Japan</span>.
 >
 > - Full merit scholarship by MEXT, Japan & MOE, Rep. of Korea.
-> - Porf. Oliver B. Wright, laboratory of Applied Solid State Physics Research Group of Quantum Matter Physics, Division of Applied Physics · Apr, 2021 - Mar, 2022.
+> - Prof. Oliver B. Wright, laboratory of Applied Solid State Physics Research Group of Quantum Matter Physics, Division of Applied Physics · Apr, 2021 - Mar, 2022.
 > - Graduation thesis: “Visualization of topological edge modes in mechanical graphene.”
 
 > #### Hokkaido University & Kyung Hee University / preparatory educational program, Japanese language and culture
@@ -108,4 +108,4 @@ Linkedin: [YOON Gun](https://www.linkedin.com/in/gun-yoon/)
 
 ### Skills
 
-- Deep learning, Computation Physics, CUDA, Python, C++, Julia.
+- Deep learning, Computational Physics, CUDA, Python, C++, Julia.
