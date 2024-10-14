@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Picture from Banju Church</p>
+    <p>@ Banju Church, Jeju</p>
     <p>M.Eng. candidate, UTokyo</p>
     <p>Tokyo, Japan</p>
 
@@ -60,7 +60,7 @@ Linkedin: [YOON Gun](https://www.linkedin.com/in/gun-yoon/)
 > - Contamination map expectation.
 > - Video object detection model.
 
-> #### Laboratory of microstructure control, Hokkaido University / research assistant
+> #### Laboratory of microstructure control, Hokkaido University / RA
 >
 > <span style="color:grey">Nov, 2019 - Aug, 2020, 10 mos Sapporo, Japan</span>.
 >
@@ -95,6 +95,7 @@ Linkedin: [YOON Gun](https://www.linkedin.com/in/gun-yoon/)
 > #### Hokkaido University & Kyung Hee University / preparatory educational program, Japanese language and culture
 >
 > <span style="color:grey">Mar, 2017 - Jul, 2017, Seoul, Rep. of Korea</span>.
+>
 > <span style="color:grey">Sep, 2017 - Mar, 2018, Sapporo, Japan</span>.
 
 ### Awards
