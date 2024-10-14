@@ -13,7 +13,7 @@
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
     {%- if page.redirect_to -%}
-      <a href="{{ page.redirect_to }}">'{{ page.title }}'<a>
+      <meta href="{{ page.redirect_to }}">
     {%- endif -%}
     {% include head.liquid %}
   </head>
