@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
-nav: false
+title: existence gallery
+nav: true
 nav_order: 1
 pagination:
   enabled: true
@@ -14,6 +14,7 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
+redirect_to: https://existence.gallery
 ---
 
 <div class="post">

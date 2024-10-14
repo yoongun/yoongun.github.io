@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 ## About
@@ -33,7 +33,11 @@ Our team at AWL, Inc. developed advanced computer vision solutions using deep le
 
 With a scholarship-backed education in applied physics, my work extends beyond academia to practical applications. I contributed to phase-field simulation projects and manage server security, blending technical acumen with a strategic approach to problem-solving. My goal is to foster advancements where AI and physics intersect, guiding innovation in the tech landscape.
 
-## Links
+### Contact
+
+gun at existence dot gallery
+
+### Links
 
 Github: [Personal](https://github.com/yoongun), [School](https://github.com/yoongunut)
 
