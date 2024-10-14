@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-## Greetings
+## About
 
 Hi! I'm Gun from Rep. of Korea studying at UTokyo as a master student.
 
@@ -27,7 +27,7 @@ My interests is to connect physics and AI.
 1. From physics to AI: Defining learning process of AI with non-equilibrium process.
 2. From AI to Physics: Data-driven way to discover new experimental, theoretical facts
 
-## About
+### Past experience
 
 Our team at AWL, Inc. developed advanced computer vision solutions using deep learning, where I honed my skills in Python and C++. Currently pursuing a Master of Engineering at UTokyo, I'm deeply invested in integrating the principles of physics with the innovation of artificial intelligence. We're exploring data-driven methods to uncover new theoretical insights and experimental facts.
 
